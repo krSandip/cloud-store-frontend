@@ -3,7 +3,7 @@
 The **frontend** of Cloud Store, a secure and user-friendly file sharing and storage platform.  
 Built with **React + Vite** and styled using **TailwindCSS**, this interface provides users with a smooth experience for uploading, managing, and sharing files.
 
-🔗 **Live Demo**: [Cloud Store - File Sharing System](https://cloud-store-web-app.netlify.app)
+🔗 **Live Demo**: [Cloud Store - File Sharing System](https://cloud-store-project.netlify.app)
 
 ---
 
